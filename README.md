@@ -7,7 +7,7 @@ Me gusta resolver problemas reales con software: hago sistemas de gestión para 
 Actualmente busco mi primera experiencia en IT, sobre todo en **Soporte Técnico / Help Desk**.
 
 - 🔭 Trabajando en: un sistema de gestión de cochera y una app para gimnasio
-- 🌱 Aprendiendo: bases de datos (SQLite / SQL) y Pygame
+- 🌱 Aprendiendo: bases de datos (SQLite / SQL)
 - 🎓 Certificación: Fundamentos de Python, Santander Open Academy
 
 ---
@@ -19,7 +19,6 @@ Actualmente busco mi primera experiencia en IT, sobre todo en **Soporte Técnico
 ![PSeInt](https://img.shields.io/badge/PSeInt-4B8BBE?style=for-the-badge)
 
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F6AA5?style=for-the-badge&logo=python&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-2E8B57?style=for-the-badge&logo=python&logoColor=white)
 ![PyInstaller](https://img.shields.io/badge/PyInstaller-555555?style=for-the-badge&logo=python&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
